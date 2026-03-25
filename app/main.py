@@ -1,4 +1,3 @@
-
 lucky_number = 777
 pi = 3.14
 one_is_a_prime_number = False
@@ -16,6 +15,7 @@ marks = {
     "Sergio": 3,
 }
 collection_of_coins = {1, 2, 25}
+
 
 sorted_variables = {
     "mutable": [
